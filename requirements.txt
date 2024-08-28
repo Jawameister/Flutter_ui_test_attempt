@@ -1,0 +1,9 @@
+pytest==7.4.0
+Appium-Python-Client==3.1.0
+selenium==4.14.0
+Faker==19.2.0
+python-dotenv==1.0.0
+pytelegrambotapi==4.13.0
+pytest-html==4.0.2
+appium-flutter-finder==0.6.1
+percy==2.0.2
